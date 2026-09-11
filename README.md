@@ -51,7 +51,7 @@ My academic training in biochemistry provided experience with:
 
 | Skill                      | Application / Project                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------------- |
-| Scientific Research        | <a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Biochemistry Research Portfolio</a>   |
+| Scientific Research        | <a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Comparative Amino Acid Analysis of Leaves of Telferia occidentalis, Cucurbita maxima and Cnidoscolus aconitifolus</a>   |
 | Data Collection & Analysis | <a href="https://github.com/ArmstrongOgbonnaya">Scientific Data Analysis Projects</a> |
 | Data Annotation            | AI/Data Annotation Projects                                                           |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
