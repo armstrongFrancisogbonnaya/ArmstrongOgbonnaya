@@ -1,5 +1,5 @@
 # ArmstrongOgbonnaya
-Comparative analysis of amino acid composition in selected vegetable leaves using biochemical research and data analysis.
+
 # Hello, I'm Armstrong Ogbonnaya 👋
 
 <a href="https://linkedin.com/in/armstrongogbonnaya">
