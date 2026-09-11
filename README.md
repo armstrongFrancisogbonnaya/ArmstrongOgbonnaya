@@ -51,7 +51,7 @@ My academic training in biochemistry provided experience with:
 
 | Skill                      | Application / Project                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------------- |
-| Scientific Research        | <a href="https://github.com/ArmstrongOgbonnaya">Biochemistry Research Portfolio</a>   |
+| Scientific Research        | <a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Biochemistry Research Portfolio</a>   |
 | Data Collection & Analysis | <a href="https://github.com/ArmstrongOgbonnaya">Scientific Data Analysis Projects</a> |
 | Data Annotation            | AI/Data Annotation Projects                                                           |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
@@ -192,6 +192,6 @@ I am open to opportunities in:
 
 I am interested in connecting with professionals, researchers, AI teams, data specialists, and organizations working at the intersection of **science, data, and artificial intelligence**.
 
-<a href="https://linkedin.com/in/armstrongogbonnaya">
+<a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Biochemistry Research Portfolio</a>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
