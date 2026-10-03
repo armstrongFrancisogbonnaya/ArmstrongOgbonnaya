@@ -53,7 +53,7 @@ My academic training in biochemistry provided experience with:
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | Scientific Research        | <a href="https://github.com/armstrongFrancisogbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Comparative Amino Acid Analysis of Leaves of Telferia occidentalis, Cucurbita maxima and Cnidoscolus aconitifolus</a>   |
 | Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>|   
-| Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
+|           | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
 | Data Annotation            | AI/Data Annotation Projects                                                           |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
 | AI Generalist Workflows    | AI Training & Evaluation Projects                                                     |
