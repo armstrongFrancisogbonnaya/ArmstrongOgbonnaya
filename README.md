@@ -148,24 +148,24 @@ I am developing practical experience and knowledge in:
 
 Research projects demonstrating my academic background in biochemistry, scientific research, data collection, analysis, and technical documentation.
 
-<a href="https://github.com/ArmstrongOgbonnaya">View Project →</a>
+<a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus"></a>
 
 ### 🤖 Data Annotation & AI Evaluation
 
 A collection of projects demonstrating skills in data annotation, classification, AI evaluation, data quality assessment, and human-in-the-loop AI workflows.
 
-<a href="https://github.com/ArmstrongOgbonnaya">View Project →</a>
+<a href="https://github.com/ArmstrongOgbonnaya"></a>
 
 ### 📊 Scientific Data Analysis
 
 Projects focused on organizing, analyzing, interpreting, and presenting scientific and research data.
 
-<a href="https://github.com/ArmstrongOgbonnaya">View Project →</a>
+<a href="https://github.com/ArmstrongOgbonnaya"></a>
 
 ## Career Interests
 
 I am open to opportunities in:
-
+* **Technical Writing**
 * **Data Annotation**
 * **AI Generalist**
 * **AI Trainer**
