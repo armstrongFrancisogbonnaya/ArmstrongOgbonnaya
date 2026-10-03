@@ -8,9 +8,9 @@
 
 ## About Me
 
-I am a **Biochemistry graduate** with a growing interest in **Artificial Intelligence, Data Annotation, AI Generalist work, scientific data, and technology**.
+I am a **Biochemistry graduate** with a growing interest in **Technical Writing, Artificial Intelligence, Data Annotation, AI Generalist work, scientific data, and technology**.
 
-My academic background in biochemistry has developed my ability to work with scientific information, analyze data, follow detailed procedures, document findings accurately, and approach complex problems systematically.
+My academic background in biochemistry has developed my ability to work with scientific information, Technical Writing, analyze data, follow detailed procedures, document findings accurately, and approach complex problems systematically.
 
 I am currently expanding these skills into the technology and AI space, with a particular interest in **data annotation, AI training, data quality, research, evaluation, and AI-assisted workflows**.
 
@@ -53,7 +53,7 @@ My academic training in biochemistry provided experience with:
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | Scientific Research        | <a href="https://github.com/armstrongFrancisogbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Comparative Amino Acid Analysis of Leaves of Telferia occidentalis, Cucurbita maxima and Cnidoscolus aconitifolus</a>   |
 | Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>|   
-|           | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
+|                            | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
 | Data Annotation            | AI/Data Annotation Projects                                                           |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
 | AI Generalist Workflows    | AI Training & Evaluation Projects                                                     |
