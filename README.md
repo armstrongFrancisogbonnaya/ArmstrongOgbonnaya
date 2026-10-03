@@ -54,6 +54,7 @@ My academic training in biochemistry provided experience with:
 | Scientific Research        | <a href="https://github.com/armstrongFrancisogbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Comparative Amino Acid Analysis of Leaves of Telferia occidentalis, Cucurbita maxima and Cnidoscolus aconitifolus</a>   |
 | Data Collection & Analysis | <a href="https://github.com/ArmstrongOgbonnaya">Scientific Data Analysis Projects</a> |
 | Data Annotation            | AI/Data Annotation Projects                                                           |
+| Technical Writing            | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>  |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
 | AI Generalist Workflows    | AI Training & Evaluation Projects                                                     |
 | Scientific Documentation   | Biochemistry Research Projects                                                        |
@@ -193,5 +194,8 @@ I am open to opportunities in:
 I am interested in connecting with professionals, researchers, AI teams, data specialists, and organizations working at the intersection of **science, data, and artificial intelligence**.
 
 <a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Biochemistry Research Portfolio</a>
+
+<a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">Technical Writing Portfolio</a>
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
