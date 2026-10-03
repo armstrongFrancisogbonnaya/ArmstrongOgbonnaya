@@ -55,6 +55,7 @@ My academic training in biochemistry provided experience with:
 | Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>|   
 |                            | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
 |                            | <a href="https://github.com/armstrongFrancisogbonnaya/Troubleshooting-Wi-Fi-Connection-Problems-">Troubleshooting-Wi-Fi-Connection-Problems-</a>|
+|                            |<a href="https://github.com/armstrongFrancisogbonnaya/How-to-Use-an-Electronic-Logging-Device-ELD-">How-to-Use-an-Electronic-Logging-Device-ELD-</a>|
 | Data Annotation            | AI/Data Annotation Projects                                                           |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
 | AI Generalist Workflows    | AI Training & Evaluation Projects                                                     |
@@ -199,6 +200,7 @@ I am interested in connecting with professionals, researchers, AI teams, data sp
 <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">Technical Writing Portfolio I</a>
 <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">II</a>
 <a href="https://github.com/armstrongFrancisogbonnaya/Troubleshooting-Wi-Fi-Connection-Problems-">III</a>
+<a href="https://github.com/armstrongFrancisogbonnaya/How-to-Use-an-Electronic-Logging-Device-ELD-">IV</a>
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
