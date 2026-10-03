@@ -24,7 +24,7 @@ I am particularly interested in opportunities involving:
 * AI Training & Evaluation
 * AI Generalist Tasks
 * Scientific Data Analysis
-* Research & Data Collection
+* Technical Writing
 * Data Quality Assurance
 * Content Evaluation
 * Machine Learning Data Preparation
@@ -52,9 +52,9 @@ My academic training in biochemistry provided experience with:
 | Skill                      | Application / Project                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | Scientific Research        | <a href="https://github.com/armstrongFrancisogbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Comparative Amino Acid Analysis of Leaves of Telferia occidentalis, Cucurbita maxima and Cnidoscolus aconitifolus</a>   |
-| Data Collection & Analysis | <a href="https://github.com/ArmstrongOgbonnaya">Scientific Data Analysis Projects</a> |
+| Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>|   
+| Technical Writing          | <a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">Cloud-Storage-Administration-Guide</a>|
 | Data Annotation            | AI/Data Annotation Projects                                                           |
-| Technical Writing            | <a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">2FA-Setup-User-Guide-</a>  |
 | Data Quality Assurance     | AI Evaluation & Data Quality Projects                                                 |
 | AI Generalist Workflows    | AI Training & Evaluation Projects                                                     |
 | Scientific Documentation   | Biochemistry Research Projects                                                        |
@@ -195,7 +195,8 @@ I am interested in connecting with professionals, researchers, AI teams, data sp
 
 <a href="https://github.com/ArmstrongOgbonnaya/Comparative-Amino-Acid-Analysis-Telferia-occidentalis-Cucurbita-maxima-and-Cnidoscolus-aconitifolus">Biochemistry Research Portfolio</a>
 
-<a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">Technical Writing Portfolio</a>
+<a href="https://github.com/armstrongFrancisogbonnaya/2FA-Setup-User-Guide-">Technical Writing Portfolio I</a>
+<a href="https://github.com/armstrongFrancisogbonnaya/Cloud-Storage-Administration-Guide">II</a>
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
